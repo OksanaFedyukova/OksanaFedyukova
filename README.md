@@ -12,6 +12,7 @@ const aboutMe = {
   data: { 
       Linkedin: "https://www.linkedin.com/in/oksana-fedyukova/", 
       Resume: "https://github.com/OksanaFedyukova",
+      SalesForce: "https://trailblazer.me/id/oksanafedyukova"
          },
    motivation: {    
         skills: "I like to work as a team and always help",
