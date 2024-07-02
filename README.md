@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
   name: "Oksana Fedyukova",
-  role: "Junior FullStack Developer",
+  role: "FullStack Developer",
   data: { 
       Linkedin: "https://www.linkedin.com/in/oksana-fedyukova/", 
       Resume: "https://github.com/OksanaFedyukova",
